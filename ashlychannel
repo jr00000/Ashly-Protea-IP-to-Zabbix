@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/env python3 /usr/lib/zabbix/externalscripts/ashlychannel.py $1 $2

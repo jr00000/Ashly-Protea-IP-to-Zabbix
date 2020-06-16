@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/env python3 /usr/lib/zabbix/externalscripts/ashlydevice.py $1
